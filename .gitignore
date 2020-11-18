@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
+*.class
+*.log
+
+.gitignore
+.idea/.gitignore
+.idea/aws.xml
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+SparkCore.iml
+pom.xml
+src/
+target/
+SparkObj.scala
